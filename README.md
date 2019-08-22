@@ -1,2 +1,3 @@
 # EAD2019
-Final Model submiited to EAD 2019 Challenge
+
+This repository contains the Final Retina-net Model submitted to Endoscopic Artafact Detection Challenge
