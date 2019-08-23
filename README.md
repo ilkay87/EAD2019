@@ -6,6 +6,8 @@ This repository contains the Final RetinaNet Model from [ARTEFACT DETECTION IN V
 The training of the model is done using the [Keras Retinanet implementation](https://github.com/fizyr/keras-retinanet)
 - Install using: "pip install keras-resnet"
 
+### Trained Model
+The trained Keras model can be downloaded from the google drive [link] (https://drive.google.com/file/d/1WhM7KQJUlh-zWcpNRIFEoE_CV0SMLLFv/view?usp=sharing)
 
 ### Reference:
 
