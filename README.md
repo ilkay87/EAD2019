@@ -7,7 +7,7 @@ The training of the model is done using the [Keras Retinanet implementation](htt
 - Install using: "pip install keras-resnet"
 
 ### Trained Model
-The trained Keras model can be downloaded from the google drive [link](https://drive.google.com/file/d/1WhM7KQJUlh-zWcpNRIFEoE_CV0SMLLFv/view?usp=sharing)
+The trained Keras model can be downloaded from the [Google Drive link](https://drive.google.com/file/d/1WhM7KQJUlh-zWcpNRIFEoE_CV0SMLLFv/view?usp=sharing)
 
 ### Reference:
 
