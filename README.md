@@ -7,9 +7,9 @@ The training of the model is done using the [Keras Retinanet implementation](htt
 - Install using: "pip install keras-resnet"
 
 
-### References:
+### Reference:
 
-1) "Artefact Detection in Video Endoscopy using Retinanet and Focal Loss Function", ISBI'19, Venice <br />
+- "Artefact Detection in Video Endoscopy using Retinanet and Focal Loss Function", ISBI'19, Venice <br />
 [Conference Abstract](http://ceur-ws.org/Vol-2366/EAD2019_paper_2.pdf)
 
 
